@@ -1,0 +1,30 @@
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# Pastas ocultas de IDEs
+.vscode/
+.idea/
+
+# Arquivos temporários
+*.log
+*.tmp
+*.bak
+
+# Cache do PHP
+*.cache
+
+# Banco de dados local (se usar SQLite)
+*.sqlite
+
+# Configurações sensíveis (se tiver)
+config.php
+.env
+
+# Node (se futuramente usar npm)
+node_modules/
+
+# Pastas de deploy que não precisam ser versionadas
+/vendor/
+/dist/
+/build/
