@@ -15,6 +15,7 @@ Este projeto é um sistema simples de envio e visualização de listas de compra
 - Bootstrap 5
 - PHP (Procedural)
 - MySQL
+- JavaScript(js)
 
 ## 📦 Estrutura do Banco
 
